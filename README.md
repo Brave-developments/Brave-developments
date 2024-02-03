@@ -4,8 +4,8 @@ I'm just a passionate coder and a keen learner.
 
 ## Socials:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([YourYouTubeLink](https://www.youtube.com/channel/UC4dsa6n5828Z1wrQJnj4_Cg)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([YourDiscordLink](https://discord.gg/NaKBMZv2Ck)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4dsa6n5828Z1wrQJnj4_Cg)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NaKBMZv2Ck)
 
 ## Tech Stack:
 
