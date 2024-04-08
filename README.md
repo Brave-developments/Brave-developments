@@ -24,7 +24,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Brave-developments/Brave-developments/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
