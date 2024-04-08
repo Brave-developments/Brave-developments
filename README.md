@@ -1,32 +1,58 @@
-# Hey 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm just a passionate coder and a keen learner.
+###
 
-## Socials:
+<p align="left">Classified</p>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4dsa6n5828Z1wrQJnj4_Cg)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NaKBMZv2Ck)
+###
 
-## Tech Stack:
+<h2 align="left">About me</h2>
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
-![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+###
 
-## GitHub Stats:
+<p align="left">I'm just a passionate coder and a keen learner.<br>I also make content in Youtube , make sure to check out</p>
 
-![Brave-developments's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brave-developments&show_icons=true)
+###
 
-<!-- Change the `github-readme-stats.vercel.app` API link with your own username-->
+<h2 align="left">I code with</h2>
 
-## Contributions Graph:
+###
 
-![Brave-developments's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Brave-developments&theme=xcode)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Brave-developments/count.svg?"  />
+</div>
 
-<!-- Change the `activity-graph.herokuapp.com` API link with your own username-->
+###
+
+<img src="https://raw.githubusercontent.com/Brave-developments/Brave-developments/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brave-developments&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brave-developments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Brave-developments&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brave-developments&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="116" src="https://cdn.discordapp.com/attachments/887026542004301865/907627498370658334/standard_6.gif?ex=661e817a&is=660c0c7a&hm=564e3da93aa4a79d4c6319be5c8fb94b813f22e00f5909bbdd2645d94a348c39&"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/8uBKDaK3QZ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC4dsa6n5828Z1wrQJnj4_Cg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://ko-fi.com/bravedevelopment" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
