@@ -1,5 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+## Discord
+<p><a href="https://discord.gg/8uBKDaK3QZ"><img src="https://img.shields.io/discord/1014059200508346398?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=CODEIN"/></a></p>
+
 ###
 
 <p align="left">Classified</p>
